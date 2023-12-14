@@ -1,23 +1,20 @@
 ﻿<Properties StartupConfiguration="{3C2D7E4F-A11E-4574-8692-85A406891FA4}|Default">
-  <MonoDevelop.Ide.ItemProperties.StaticExtension.Helper FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StaticExtensionTask.Domain/Models/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticExtensionTask/Program.cs">
     <Files>
-      <File FileName="StaticExtensionTask/Program.cs" Line="6" Column="47" />
-      <File FileName="StaticExtensionTask.Domain/Helpers/IAccount.cs" Line="6" Column="14" />
-      <File FileName="StaticExtensionTask.Domain/Models/User.cs" Line="66" Column="10" />
+      <File FileName="StaticExtensionTask/Program.cs" Line="2" Column="3" />
+      <File FileName="StaticExtensionTask.Domain/Models/User.cs" Line="15" Column="25" />
+      <File FileName="StaticExtensionTask.Domain/Interfaces/IAccount.cs" Line="8" Column="3" />
+      <File FileName="StaticExtensionTask.Domain/Helpers/ErrorMessage.cs" Line="7" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StaticExtensionTask" expanded="True">
-            <Node name="StaticExtensionTask.Domain">
-              <Node name="Interfaces" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="User.cs" selected="True" />
-              </Node>
-            </Node>
+          <Node name="StaticExtensionTask">
+            <Node name="StaticExtensionTask" expanded="True" />
           </Node>
         </State>
       </Pad>
