@@ -1,0 +1,15 @@
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/bin/Debug/net6.0/StaticExtensionTask.Domain.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/bin/Debug/net6.0/StaticExtensionTask.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/bin/Debug/net6.0/StaticExtensionTask.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/refint/StaticExtensionTask.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/ref/StaticExtensionTask.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/bin/Debug/net6.0/StaticExtension.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/bin/Debug/net6.0/StaticExtension.Helper.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtensionTask.Domain/obj/Debug/net6.0/StaticExtensionTask.Domain.csproj.CopyComplete

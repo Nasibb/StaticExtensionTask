@@ -1,0 +1,12 @@
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/bin/Debug/net6.0/StaticExtension.Helper.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/bin/Debug/net6.0/StaticExtension.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/bin/Debug/net6.0/StaticExtension.Helper.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/refint/StaticExtension.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/StaticExtension.Helper.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/StaticExtensionTask/StaticExtensionTask/StaticExtension.Helper/obj/Debug/net6.0/ref/StaticExtension.Helper.dll
